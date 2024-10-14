@@ -1,0 +1,3 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+NB,1,Northbound,Long Beach to Tofino,The north bound route travels from Long Beach PRNPR to downtown Tofino.,3,,243746,FFFFFF,,,
+SB,1,Southbound,Tofino to Long Beach via Chesterman Beach Road,The south bound route travels from downtown Tofino to Long Beach PRNPR.,3,,243746,FFFFFF,,,

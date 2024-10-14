@@ -1,0 +1,4 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+dly,1,1,1,1,1,1,1,20240627,20240902
+winter2024,0,0,0,0,0,0,0,20240101,20240620
+winter2025,0,0,0,0,0,0,0,20240903,20250501

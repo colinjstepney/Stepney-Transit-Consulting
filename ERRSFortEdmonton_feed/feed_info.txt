@@ -1,0 +1,2 @@
+﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
+Edmonton Radial Railway Society,https://www.edmontonstreetcars.ca/,en,20241128,20241231,1,,

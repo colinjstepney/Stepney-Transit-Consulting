@@ -1,0 +1,63 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+ProtFerry,weekday,toNanaimoWeekday_T01,to Nanaimo,0,11,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T02,to Nanaimo,0,21,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T03,to Nanaimo,0,31,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T04,to Nanaimo,0,41,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T05,to Nanaimo,0,51,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T06,to Nanaimo,0,61,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T07,to Nanaimo,0,71,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T08,to Nanaimo,0,81,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T09,to Nanaimo,0,91,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T10,to Nanaimo,0,101,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T11,to Nanaimo,0,111,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T12,to Nanaimo,0,121,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T13,to Nanaimo,0,131,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T14,to Nanaimo,0,141,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T15,to Nanaimo,0,151,toNanaimo,2,1
+ProtFerry,weekday,toNanaimoWeekday_T16,to Nanaimo,0,161,toNanaimo,2,1
+ProtFerry,weekday,toIslandWeekday_T01,to Protection Island,1,11,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T02,to Protection Island,1,21,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T03,to Protection Island,1,31,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T04,to Protection Island,1,41,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T05,to Protection Island,1,51,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T06,to Protection Island,1,61,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T07,to Protection Island,1,71,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T08,to Protection Island,1,81,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T09,to Protection Island,1,91,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T10,to Protection Island,1,101,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T11,to Protection Island,1,111,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T12,to Protection Island,1,121,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T13,to Protection Island,1,131,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T14,to Protection Island,1,141,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T15,to Protection Island,1,151,toIsland,2,1
+ProtFerry,weekday,toIslandWeekday_T16,to Protection Island,1,161,toIsland,2,1
+ProtFerry,weekend,toNanaimoWeekend_T01,to Nanaimo,0,12,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T02,to Nanaimo,0,22,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T03,to Nanaimo,0,32,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T04,to Nanaimo,0,42,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T05,to Nanaimo,0,52,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T06,to Nanaimo,0,62,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T07,to Nanaimo,0,72,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T08,to Nanaimo,0,82,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T09,to Nanaimo,0,92,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T10,to Nanaimo,0,102,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T11,to Nanaimo,0,112,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T12,to Nanaimo,0,122,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T13,to Nanaimo,0,132,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T14,to Nanaimo,0,142,toNanaimo,2,1
+ProtFerry,weekend,toNanaimoWeekend_T15,to Nanaimo,0,152,toNanaimo,2,1
+ProtFerry,weekend,toIslandWeekend_T01,to Protection Island,1,12,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T02,to Protection Island,1,22,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T03,to Protection Island,1,32,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T04,to Protection Island,1,42,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T05,to Protection Island,1,52,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T06,to Protection Island,1,62,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T07,to Protection Island,1,72,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T08,to Protection Island,1,82,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T09,to Protection Island,1,92,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T10,to Protection Island,1,102,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T11,to Protection Island,1,112,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T12,to Protection Island,1,122,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T13,to Protection Island,1,132,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T14,to Protection Island,1,142,toIsland,2,1
+ProtFerry,weekend,toIslandWeekend_T15,to Protection Island,1,152,toIsland,2,1

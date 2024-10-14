@@ -1,0 +1,6 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+SUMMERREG,1,0,0,0,1,1,1,20240516,20250908
+SUMMERSAT,0,0,0,0,0,1,0,20240516,20250908
+FALLREG,0,0,0,0,1,1,1,20240909,20251014
+FALLSAT,0,0,0,0,0,1,0,20240909,20251014
+EXTRA,0,0,0,0,0,0,0,20240101,20250101

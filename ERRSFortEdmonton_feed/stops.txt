@@ -1,7 +1,0 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-entrance,,Park Entrance Station,,53.502709,-113.574047,,,,,,
-1920wb,,1920 St. Westbound,,53.502407,-113.578829,,,,,,
-1905wb,,1905 St. Westbound,,53.502136,-113.580741,,,,,,
-egges,,Egge's Barn,,53.500185,-113.582615,,,,,,
-1905eb,,1905 St. Eastbound,,53.501545,-113.580948,,,,,,
-1920eb,,1920 St. Eastbound,,53.502459,-113.579461,,,,,,

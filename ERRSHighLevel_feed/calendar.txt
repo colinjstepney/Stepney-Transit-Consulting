@@ -1,0 +1,9 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+coreService,1,0,0,0,1,1,1,20250516,20251013
+SatSunAM,0,0,0,0,0,1,1,20250517,20251012
+SatStatEX,0,0,0,0,0,1,0,20250517,20251013
+SunEX,0,0,0,0,0,0,1,20251018,20251012
+FringeCore,1,1,1,1,1,1,1,20250814,20250824
+FringeSat,0,0,0,0,0,1,0,20250816,20250823
+FringeEX,0,0,0,0,0,1,1,20250817,20250824
+FringePM,0,0,0,0,0,1,1,20250816,20250823

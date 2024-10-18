@@ -1,0 +1,42 @@
+﻿service_id,date,exception_type,NOTE
+coreService,20250908,2,No Monday service in the fall
+coreService,20250915,2,No Monday service in the fall
+coreService,20250922,2,No Monday service in the fall
+coreService,20250929,2,No Monday service in the fall
+coreService,20251006,2,No Monday service in the fall
+coreService,20250815,2,Fringe core service suspension
+coreService,20250816,2,Fringe core service suspension
+coreService,20250817,2,Fringe core service suspension
+coreService,20250818,2,Fringe core service suspension
+coreService,20250819,2,Fringe core service suspension
+coreService,20250820,2,Fringe core service suspension
+coreService,20250821,2,Fringe core service suspension
+coreService,20250822,2,Fringe core service suspension
+coreService,20250823,2,Fringe core service suspension
+coreService,20250824,2,Fringe core service suspension
+SatStatEX,20250519,1,Victoria Day - Extra service
+SatStatEX,20250701,1,Canada Day - Extra service
+coreService,20250701,1,Canada Day - Core Service
+SatStatEX,20250804,1,Heritage Day - Extra service
+SatStatEX,20250901,1,Labour Day - Extra service
+SatStatEX,20251013,1,Thanksgiving - Extra service
+FringeCore,20250814,1,Fringe - Core service
+FringeCore,20250815,1,Fringe - Core service
+FringeCore,20250816,1,Fringe - Core service
+FringeCore,20250817,1,Fringe - Core service
+FringeCore,20250818,1,Fringe - Core service
+FringeCore,20250819,1,Fringe - Core service
+FringeCore,20250820,1,Fringe - Core service
+FringeCore,20250821,1,Fringe - Core service
+FringeCore,20250822,1,Fringe - Core service
+FringeCore,20250823,1,Fringe - Core service
+FringeCore,20250824,1,Fringe - Core service
+FringeSat,20250816,1,Fringe - Saturday Add-On
+FringeSat,20250823,1,Fringe - Saturday Add-On
+FringeEX,20250816,1,Fringe - Saturday 1 Extra
+FringeEX,20250823,1,Fringe - Saturday 2 Extra
+FringePM,20250816,1,Fringe - Saturday 1 PM
+FringePM,20250823,1,Fringe - Saturday 2 PM
+FringeEX,20250817,1,Fringe - Sunday 1 Extra
+FringePM,20250817,1,Fringe - Sunday 1 PM
+FringeEX,20250824,1,Fringe - Sunday 2 Extra

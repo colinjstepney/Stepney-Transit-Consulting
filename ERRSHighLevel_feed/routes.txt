@@ -1,3 +1,0 @@
-﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-SB,ERRS,Southbound,High Level Bridge Streetcar (Southbound),High level bridge streetcar from Whyte Terminal to Jasper Plaza,0,,e2c995,,,,
-NB,ERRS,Northbound,High Level Bridge Streetcar (Northbound),High level bridge streetcar from Jasper Plaza to Whyte Terminal,0,,e2c995,,,,

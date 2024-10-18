@@ -1,7 +1,0 @@
-﻿service_id,date,exception_type,NOTE
-EXTRA,20251011,1,TEST - Thanksgiving
-EXTRA,20251012,1,TEST - Thanksgiving
-EXTRA,20251013,1,TEST - Thanksgiving
-EXTRA,20251014,1,TEST - Thanksgiving
-FALLREG,20251014,1,TEST - Thanksgiving
-FALLSAT,20251014,1,TEST - Thanksgiving

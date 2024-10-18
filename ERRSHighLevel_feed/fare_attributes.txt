@@ -1,0 +1,2 @@
+﻿fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
+regular,5,CAD,0,0,ERRS,

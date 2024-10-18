@@ -1,0 +1,8 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+whyte,,Whyte,Southern Terminus.,53.518263,-113.494475,A,,,,,2
+strathcona,,Strathcona,Soutbound service is dropoff only.,53.520305,-113.495664,A,,,,,1
+107,,107 Street,Flag stop.,53.522683,-113.506643,A,,,,,2
+garneau,,Garneau,Flag stop.,53.525637,-113.513282,A,,,,,2
+govt,,Government Centre Plaza,Flag stop.,53.535243,-113.509106,A,,,,,2
+jasper,,Jasper Plaza,Northern terminus.,53.539563,-113.509342,A,,,,,2
+fringe,,Fringe Festival,Stop in service only during the Edmonton Fringe Theatre Festival,53.520722,-113.496921,A,,,,,

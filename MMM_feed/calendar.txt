@@ -1,5 +1,0 @@
-﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-kas-van,0,0,1,0,0,1,0,20241022,20251231
-van-kas,0,0,0,1,0,0,1,20241022,20251231
-kas-cal,1,0,0,0,0,0,0,20241022,20251231
-cal-kas,0,1,0,0,0,0,0,20241022,20251231

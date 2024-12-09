@@ -1,0 +1,4 @@
+﻿service_id,date,exception_type
+reg,20251225,2
+reg,20241225,2
+reg,20261225,2

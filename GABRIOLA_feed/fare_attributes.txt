@@ -1,2 +1,0 @@
-﻿fare_id,price,currency_type,payment_method,transfers,agency_id,transfer_duration
-adult_fare,2.75,CAD,0,0,GERTIE,

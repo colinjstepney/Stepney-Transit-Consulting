@@ -1,0 +1,6 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+WEEKDAY,1,1,1,1,1,0,0,20240617,20250930
+ALLDAYS,1,1,1,1,1,1,0,20240617,20250930
+SAT,0,0,0,0,0,1,0,20240617,20250930
+MID-WEEK,0,1,1,1,0,0,0,20240916,20250530
+MID-ALL,0,1,1,1,0,1,0,20240916,20250530

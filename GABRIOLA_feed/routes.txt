@@ -1,0 +1,5 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+RED,GERTIE,GERTIE,Gabriola Island Loop,,3,,E30303,FFFFFF,1,0,0
+ORANGE,GERTIE,GERTIE,Twin Beaches Loop,,3,,F68A00,FFFFFF,2,0,0
+GREEN,GERTIE,GERTIE,Harrison Loop,,3,,19A500,FFFFFF,3,0,0
+BLUE,GERTIE,GERTIE,Whalebone/Barrett,,3,,0017FF,FFFFFF,4,0,0

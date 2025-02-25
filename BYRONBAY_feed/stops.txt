@@ -1,3 +1,0 @@
-﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
-north,,North Beach,,-28.629424,153.584671,,,,,Australia/Brisbane,
-byron,,Byron Beach,,-28.641726,153.611111,,,,,Australia/Brisbane,

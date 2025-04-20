@@ -1,5 +1,0 @@
-﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-regularA,1,1,1,1,1,1,1,20250501,20250930
-winter_suspensionA,0,0,0,0,0,0,0,20241030,20250430
-winter_suspensionB,0,0,0,0,0,0,0,20251001,20260430
-regularB,1,1,1,1,1,1,1,20260501,20260930

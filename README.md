@@ -1,2 +1,2 @@
 # Stepney-Transit-Consulting
-Collection of current and old GTFS data for a variety of small transit providers in British Columbia and Alberta.
+Collection of current and old GTFS data for a variety of small transit providers in British Columbia and Alberta. This information, with some exceptions, is published on both TransitApp and on Google Maps. It has also been made available to Catenary Maps for data visualization. All feeds are authorized by the official operator through written consent. While the feeds themselves are public, the likeness of the companies and operators represented are not free to use.

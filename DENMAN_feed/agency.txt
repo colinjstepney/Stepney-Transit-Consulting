@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-DIBS,Denman Island Bus Service,https://www.denmanislandbus.ca/,America/Los_Angeles,en,12502075694,https://static1.squarespace.com/static/622d06bbb1b8e552b36df9af/t/66285dc1ca89cd2ab9519225/1713921475371/Bus+insert+2024.pdf,info@denmanislandbus.ca

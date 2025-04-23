@@ -1,2 +1,0 @@
-﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Denman Island Bus Service,https://www.denmanislandbus.ca/,en,20240502,20250530,1.2,info@denmanislandbus.ca,https://www.denmanislandbus.ca/

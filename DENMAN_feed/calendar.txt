@@ -1,3 +1,0 @@
-﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-winter2024,0,0,0,1,0,1,0,20240801,20250530
-thursday,0,0,0,1,0,0,0,20240801,20250530

@@ -1,0 +1,4 @@
+﻿service_id,date,exception_type
+winter2024,20241226,2
+thursday,20241226,2
+winter2024,20250428,1

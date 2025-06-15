@@ -1,2 +1,0 @@
-﻿feed_publisher_name,feed_publisher_url,feed_lang,feed_start_date,feed_end_date,feed_version,feed_contact_email,feed_contact_url
-Hornby Island Community Economic Enhancement Corporation,https://hiceec.org/,en,20240621,20241231,1,,https://hornbybus.com/

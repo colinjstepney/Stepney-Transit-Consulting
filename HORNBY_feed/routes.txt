@@ -1,0 +1,4 @@
+﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
+1,HORNBY,1,Ford Cove,,3,,820071,FFFFFF,,0,0
+2,HORNBY,2,Shingle Spit Ferry,,3,,0007BB,FFFFFF,,0,0
+3,HORNBY,3,Helliwell,,3,,16DFFF,000000,,0,0

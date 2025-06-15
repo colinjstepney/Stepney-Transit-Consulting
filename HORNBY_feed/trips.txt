@@ -1,0 +1,45 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+2,dly,ferryin_T01,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T02,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T03,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T04,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T05,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T06,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T07,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T08,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T09,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T10,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryin_T11,Co-Op via Galleon Beach,1,1,ferry-in,,2
+2,dly,ferryout_T01,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T02,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T03,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T04,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T05,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T06,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T07,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T08,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T09,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T10,Ferry via Galleon Beach,0,1,ferry-out,,2
+2,dly,ferryout_T11,Ferry via Galleon Beach,0,1,ferry-out,,2
+1,dly,fordout_T01,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T02,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T03,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T04,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T05,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T06,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T07,Ford Cove,0,1,ford-out,,2
+1,dly,fordout_T08,Ford Cove,0,1,ford-out,,2
+1,dly,fordin_T01,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T02,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T03,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T04,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T05,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T06,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T07,Co-Op via Sandpiper,1,1,ford-in,,2
+1,dly,fordin_T08,Co-Op via Sandpiper,1,1,ford-in,,2
+3,dly,wahelout_T01,Helliwell & Whaling Station Bay,0,1,whale-out,,2
+3,dly,wahelout_T02,Helliwell & Whaling Station Bay,0,1,whale-out,,2
+3,dly,wahelout_T03,Helliwell & Whaling Station Bay,0,1,whale-out,,2
+3,dly,whalein_T01,Co-Op via St. Johns Pt. Rd.,1,1,whale-in,,2
+3,dly,whalein_T02,Co-Op via St. Johns Pt. Rd.,1,1,whale-in,,2
+3,dly,whalein_T03,Co-Op via St. Johns Pt. Rd.,1,1,whale-in,,2

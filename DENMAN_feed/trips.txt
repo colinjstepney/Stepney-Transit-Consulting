@@ -1,0 +1,49 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T01,to Gravelly Bay,1,1,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T02,to Gravelly Bay,1,2,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T03,to Gravelly Bay,1,3,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T04,to Gravelly Bay,1,4,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T05,to Gravelly Bay,1,1,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T06,to Gravelly Bay,1,2,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T07,to Gravelly Bay,1,3,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_Hinton_2025_T08,to Gravelly Bay,1,4,hinton,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T01,to Gravelly Bay,1,1,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T02,to Gravelly Bay,1,2,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T03,to Gravelly Bay,1,3,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T04,to Gravelly Bay,1,4,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T05,to Gravelly Bay,1,1,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T06,to Gravelly Bay,1,2,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T07,to Gravelly Bay,1,3,hornbyferry,,2
+dibs,summer2025,Gravelly_Bay_via_McFarlane_2025_T08,to Gravelly Bay,1,4,hornbyferry,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T01,Denman Island Village via Fillongley,1,1,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T02,Denman Island Village via Fillongley,1,2,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T03,Denman Island Village via Fillongley,1,3,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T04,Denman Island Village via Fillongley,1,4,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T05,Denman Island Village via Fillongley,1,1,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T06,Denman Island Village via Fillongley,1,2,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T07,Denman Island Village via Fillongley,1,3,fillongley,,2
+dibs,summer2025,DenmanVillage_via_Fillongley_2025_T08,Denman Island Village via Fillongley,1,4,fillongley,,2
+dibs,summer2025,DenmanVillage_2025_T01,Denman Island Village,1,5,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T02,Denman Island Village,1,5,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T03,Denman Island Village,1,5,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T04,Denman Island Village,1,5,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T05,Denman Island Village,1,11,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T06,Denman Island Village,1,22,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T07,Denman Island Village,1,33,commhall,,2
+dibs,summer2025,DenmanVillage_2025_T08,Denman Island Village,1,44,commhall,,2
+dibs,summer2025,wren_via_northwest_2025_T01,Wren Rd. via Northwest Rd.,1,55,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T02,Wren Rd. via Northwest Rd.,1,66,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T03,Wren Rd. via Northwest Rd.,1,77,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T04,Wren Rd. via Northwest Rd.,1,88,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T05,Wren Rd. via Northwest Rd.,1,11,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T06,Wren Rd. via Northwest Rd.,1,22,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T07,Wren Rd. via Northwest Rd.,1,33,wren,,2
+dibs,summer2025,wren_via_northwest_2025_T08,Wren Rd. via Northwest Rd.,1,44,wren,,2
+dibs,summer2025,denmanwestferry_2025_T01,Denman Island West Ferry Terminal via Denman Island Village,1,55,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T02,Denman Island West Ferry Terminal via Denman Island Village,1,66,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T03,Denman Island West Ferry Terminal via Denman Island Village,1,77,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T04,Denman Island West Ferry Terminal via Denman Island Village,1,88,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T05,Denman Island West Ferry Terminal via Denman Island Village,1,11,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T06,Denman Island West Ferry Terminal via Denman Island Village,1,22,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T07,Denman Island West Ferry Terminal via Denman Island Village,1,33,denmanWest,,2
+dibs,summer2025,denmanwestferry_2025_T08,Denman Island West Ferry Terminal via Denman Island Village,1,44,denmanWest,,2

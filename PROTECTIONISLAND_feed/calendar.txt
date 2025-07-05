@@ -1,5 +1,0 @@
-﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-MoTuWeTh,1,1,1,1,0,0,0,20240901,20250901
-Fri,0,0,0,0,1,0,0,20240901,20250901
-Sat,0,0,0,0,0,1,0,20240901,20250901
-Sun,0,0,0,0,0,0,1,20240901,20250901

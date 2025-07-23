@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-1,Tofino Free Shuttle,https://tourismtofino.com/plan-your-trip/getting-around,America/Vancouver,EN,18887203414,,

@@ -1,3 +1,0 @@
-﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-Week,1,1,1,1,0,0,0,20250701,20250901
-All,1,1,1,1,1,1,0,20250701,20250901

@@ -1,0 +1,2 @@
+﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
+GERTIE,Gabriola Community Shuttle,https://gertie.ca,America/Vancouver,en,(250) 668-6809,https://gertie.ca/routes/fares/,GabriolaCommunityBus@gmail.com

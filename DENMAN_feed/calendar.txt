@@ -1,0 +1,3 @@
+﻿service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+winter2025,0,0,0,1,0,1,0,20251002,20260425
+winter_exp,0,0,0,1,0,0,0,20251002,20260425

@@ -1,0 +1,12 @@
+﻿stop_id,stop_code,stop_name,stop_desc,stop_lat,stop_lon,zone_id,stop_url,location_type,parent_station,stop_timezone,wheelchair_boarding
+VICTORIA,,Victoria (Capital City Station),,48.42079,-123.36621,,,,,,
+SOOKE,,Sooke,,48.377129,-123.724104,,,,,,
+CHINA,,China Beach,,48.439035,-124.089045,,,,,,
+SOMBRIO,,Sombrio Beach,,48.503514,-124.285545,,,,,,
+PARKINSON,,Parkinson Creek,,48.543271,-124.365168,,,,,,
+RENFREW,,Port Renfrew,,48.551641,-124.423375,,,,,,
+GORDON,,Gordon River,,48.578221,-124.410727,,,,,,
+HONEYMOON,,Lake Cowichan Area (Honeymoon Bay),,48.816955,-124.175792,,,,,,
+NITINAHT,,Nitnaht Junction,,48.862672,-124.643568,,,,,,
+PACHENA,,Pachena Bay,,48.792989,-125.114506,,,,,,
+BAMFIELD,,Bamfield,,48.825788,-125.134247,,,,,,

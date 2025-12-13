@@ -1,5 +1,0 @@
-﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-RED,GERTIE,GERTIE,Silva Bay Express,,3,,E30303,FFFFFF,1,0,0
-YELLOW,GERTIE,GERTIE,Taylor Bay - Hemlock,,3,,FFCD2B,000000,2,0,0
-GREEN,GERTIE,GERTIE,Harrison Loop,,3,,19A500,FFFFFF,3,0,0
-BLUE,GERTIE,GERTIE,Whalebone,,3,,0017FF,FFFFFF,4,0,0

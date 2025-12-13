@@ -1,0 +1,24 @@
+﻿route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+RED,WEEKDAY,WAM-R1_T01,to Silva Bay via North Road,0,1,WAM-R1,1,1
+YELLOW,WEEKDAY,WAM-O_T01,to Ferry via Taylor Bay,0,1,WAM-O,1,1
+GREEN,WEEKDAY,WAM-G_T01,to Ferry via Harrison,0,1,WAM-G,1,1
+BLUE,WEEKDAY,WAM-B_T01,to Village,0,1,WAM-B,1,1
+RED,WEEKDAY,WAM-R2_T01,to Village via Silva Bay,0,1,WAM-R2,1,1
+RED,WEEKDAY,WAM-R3_T01,Drop-off Only,1,1,WAM-R3,1,1
+BLUE,M-ALLDAYS,SM-B1_T01,to Whalebone via Village,0,2,SM-B1,1,1
+RED,MID-WEEK,SM-R1A-CLINIC_T01,to Silva Bay via Clinic,0,2,SM-R1A,1,1
+RED,MID-SAT,SM-R1B-no-CLINIC_T01,to Silva Bay,0,2,SM-R1B,1,1
+GREEN,M-ALLDAYS,SM-G_T01,to Ferry via Harrison,1,2,SM-G,1,1
+GREEN,M-ALLDAYS,SM-G_T02,to Ferry via Harrison,1,2,SM-G,1,1
+GREEN,M-ALLDAYS,SM-G_T03,to Ferry via Harrison,1,3,SM-G,1,1
+YELLOW,M-ALLDAYS,SM-O_T01,to Taylor Bay via Village,0,2,SM-O,1,1
+YELLOW,M-ALLDAYS,SM-O_T02,to Taylor Bay via Village,0,3,SM-O,1,1
+RED,M-ALLDAYS,SM-R2_T01,to Silva Bay via Village,0,2,SM-R2,1,1
+RED,M-ALLDAYS,SM-R3_T01,to Silva Bay via Clinic,0,3,SM-R3,1,1
+RED,M-ALLDAYS,SM-R4-viaB_T01,to Silva Bay via Whalebone,0,3,SM-R4,1,1
+RED,M-ALLDAYS,SM-R4-ex_T01,Drop-off Only,1,3,SM-R4-ex,1,1
+GREEN,ALLDAYS,SPM-G1_T01,to Ferry,1,4,SPM-G,1,1
+YELLOW,ALLDAYS,SPM-O_T01,to Taylor Bay,0,4,SPM-O,1,1
+RED,ALLDAYS,SPM-R1_T01,to Village,0,4,SPM-R1,1,1
+GREEN,ALLDAYS,SPM-G2_T01,to Village,1,4,SPM-G,1,1
+RED,ALLDAYS,SPM-R2_T01,to Silva Bay via Whalebone,0,4,SPM-R2,1,1

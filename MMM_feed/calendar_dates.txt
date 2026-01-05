@@ -1,5 +1,0 @@
-﻿service_id,date,exception_type
-kas-van,20251224,2
-kas-van,20251231,2
-van-kas,20251225,2
-van-kas,20260101,2

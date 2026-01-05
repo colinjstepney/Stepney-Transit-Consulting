@@ -1,0 +1,2 @@
+﻿service_id,date,exception_type
+van-kas,20260423,2

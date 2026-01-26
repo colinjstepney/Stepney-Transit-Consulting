@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-byron,Byron Bay Train,https://byronbaytrain.com.au/,Australia/Sydney,en,0493 249 117,,enquiries@byronbaytrain.com.au

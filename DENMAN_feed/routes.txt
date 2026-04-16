@@ -1,2 +1,0 @@
-﻿route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-dibs,DIBS,DIBS,Denman Island Bus Service,,3,https://static1.squarespace.com/static/622d06bbb1b8e552b36df9af/t/68093a91e02b7c084855faa7/1745435291945/BW+2025+insert.pdf,D50000,FDF0F0,,0,0

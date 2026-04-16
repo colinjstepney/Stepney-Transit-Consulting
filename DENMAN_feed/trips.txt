@@ -1,0 +1,36 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+dibs,winter2025,W_Gravelly_Bay_via_Hinton_2025_T+R1+R:AJ,to Gravelly Bay,1,,hinton,2,2
+dibs,winter2025,W_Gravelly_Bay_via_Hinton_2025_T02,to Gravelly Bay,1,,hinton,2,2
+dibs,winter2025,W_Gravelly_Bay_via_Hinton_2025_T03,to Gravelly Bay,1,,hinton,2,2
+dibs,winter2025,W_Gravelly_Bay_via_Hinton_2025_T04,to Gravelly Bay,1,,hinton,2,2
+dibs,winter2025,W_Gravelly_Bay_via_McFarlane_2025_T+R1+R:AJ,to Gravelly Bay,1,,hornbyferry,2,2
+dibs,winter2025,W_Gravelly_Bay_via_McFarlane_2025_T02,to Gravelly Bay,1,,hornbyferry,2,2
+dibs,winter2025,W_Gravelly_Bay_via_McFarlane_2025_T03,to Gravelly Bay,1,,hornbyferry,2,2
+dibs,winter2025,W_Gravelly_Bay_via_McFarlane_2025_T04,to Gravelly Bay,1,,hornbyferry,2,2
+dibs,winter2025,W_DenmanVillage_via_Fillongley_2025_T+R1+R:AJ,Denman Island Village via Fillongley,1,,fillongley,2,2
+dibs,winter2025,W_DenmanVillage_via_Fillongley_2025_T02,Denman Island Village via Fillongley,1,,fillongley,2,2
+dibs,winter2025,W_DenmanVillage_via_Fillongley_2025_T03,Denman Island Village via Fillongley,1,,fillongley,2,2
+dibs,winter2025,W_DenmanVillage_via_Fillongley_2025_T04,Denman Island Village via Fillongley,1,,fillongley,2,2
+dibs,winter2025,W_DenmanVillage_2025_T+R1+R:AJ,Denman Island Village,1,,commhall,2,2
+dibs,winter2025,W_DenmanVillage_2025_T02,Denman Island Village,1,,commhall,2,2
+dibs,winter2025,W_DenmanVillage_2025_T03,Denman Island Village,1,,commhall,2,2
+dibs,winter2025,W_DenmanVillage_2025_T04,Denman Island Village,1,,commhall,2,2
+dibs,winter2025,W_wren_via_northwest_2025_T+R1+R:AJ,Wren Rd. via Northwest Rd.,1,,wren,2,2
+dibs,winter2025,W_wren_via_northwest_2025_T02,Wren Rd. via Northwest Rd.,1,,wren,2,2
+dibs,winter2025,W_wren_via_northwest_2025_T03,Wren Rd. via Northwest Rd.,1,,wren,2,2
+dibs,winter2025,W_wren_via_northwest_2025_T04,Wren Rd. via Northwest Rd.,1,,wren,2,2
+dibs,winter2025,W_denmanwestferry_2025_T+R1+R:AJ,Denman Island West Ferry Terminal via Denman Island Village,1,,denmanWest,2,2
+dibs,winter2025,W_denmanwestferry_2025_T02,Denman Island West Ferry Terminal via Denman Island Village,1,,denmanWest,2,2
+dibs,winter2025,W_denmanwestferry_2025_T03,Denman Island West Ferry Terminal via Denman Island Village,1,,denmanWest,2,2
+dibs,winter2025,W_denmanwestferry_2025_T04,Denman Island West Ferry Terminal via Denman Island Village,1,,denmanWest,2,2
+dibs,winter_exp,W_thursExpress_T+R1+R:AJ,Hornby Ferry Express,0,,express,2,2
+dibs,winter_exp,W_DROPOFF_DenmanVillage_via_Fillongley_2025_T+R1+R:AJ,Denman Island Village via Fillongley,1,,fillongley,2,2
+dibs,winter_exp,W_DROPOFF_DenmanVillage_2025_T+R1+R:AJ,Denman Island Village,1,,commhall,2,2
+dibs,winter_exp,W_DROPOFF_wren_via_northwest_2025_T+R1+R:AJ,Wren Rd. via Northwest Rd.,1,,wren,2,2
+dibs,summer2026,bypass_AM2027_T+R1+R:AJ,to Gravelly Bay,1,,bypass2026,2,2
+dibs,summer2026,general_2027_T+R1+R:AJ,to Gravelly Bay,1,,general2026,2,2
+dibs,summer2026,general_2027_T02,to Gravelly Bay,1,,general2026,2,2
+dibs,summer2026,general_2027_T03,to Gravelly Bay,1,,general2026,2,2
+dibs,summer2026,general_2027_T04,to Gravelly Bay,1,,general2026,2,2
+dibs,summer2026,general_2027_T05,to Gravelly Bay,1,,general2026,2,2
+dibs,summer2026,general_2027_T06,to Gravelly Bay,1,,general2026,2,2

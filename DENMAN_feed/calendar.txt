@@ -1,5 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-winter2025,0,0,0,1,0,1,0,20260101,20260430
-winter_exp,0,0,0,1,0,0,0,20260101,20260430
-summer2026,1,1,1,1,1,1,1,20260501,20260930
-winter2026,0,0,0,0,0,0,0,20261001,20270430

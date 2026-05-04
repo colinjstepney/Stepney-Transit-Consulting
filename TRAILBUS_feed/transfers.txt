@@ -1,3 +1,0 @@
-﻿from_route_id,to_route_id,from_stop_id,to_stop_id,transfer_type,min_transfer_time
-WCTE,NanaimoShuttle,HONEYMOON,HONEYMOON,1,0
-NanaimoShuttle,WCTE,HONEYMOON,HONEYMOON,1,0

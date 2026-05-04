@@ -1,2 +1,0 @@
-﻿agency_id,agency_name,agency_url,agency_timezone,agency_lang,agency_phone,agency_fare_url,agency_email
-WCTE,West Coast Trail Express,https://trailbus.com/,America/Vancouver,en,1-250-477-8700,https://trailbus.com/west-coast-trail-fares/, bus@trailbus.com

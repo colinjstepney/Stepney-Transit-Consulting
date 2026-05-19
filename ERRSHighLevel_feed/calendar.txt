@@ -1,0 +1,8 @@
+service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
+core,1,0,0,1,1,1,1,20260515,20261012
+saturday,0,0,0,0,0,1,0,20260516,20261010
+weekend,0,0,0,0,0,1,1,20260516,20261011
+sunday,0,0,0,0,0,0,1,20260517,20261011
+fringecore,1,1,1,1,1,1,1,20260813,20260823
+fringesat,0,0,0,0,0,1,0,20260815,20260822
+fringecar2,0,0,0,0,0,1,1,20260815,20260823

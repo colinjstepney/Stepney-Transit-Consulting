@@ -1,0 +1,3 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+free,NB,1,1,1
+free,SB,1,1,1

@@ -1,0 +1,5 @@
+fare_id,route_id,origin_id,destination_id,contains_id
+adult_fare,RED,1,1,
+adult_fare,YELLOW,1,1,
+adult_fare,GREEN,1,1,
+adult_fare,BLUE,1,1,

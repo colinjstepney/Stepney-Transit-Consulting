@@ -1,3 +1,0 @@
-service_id,monday,tuesday,wednesday,thursday,friday,saturday,sunday,start_date,end_date
-dly,1,1,1,1,1,1,1,20260627,20260907
-winter2026,0,0,0,0,0,0,0,20260908,20270630

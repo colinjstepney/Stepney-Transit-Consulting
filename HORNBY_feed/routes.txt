@@ -1,4 +1,0 @@
-route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color,route_sort_order,continuous_pickup,continuous_drop_off
-1,HORNBY,,Ford Cove,,3,,044d00,ffffff,,0,0
-2,HORNBY,,Shingle Spit Ferry,,3,,0007BB,FFFFFF,,0,0
-3,HORNBY,,Whaling Station Bay,,3,,6b006a,ffffff,,0,0

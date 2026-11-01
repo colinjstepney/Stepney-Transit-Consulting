@@ -1,0 +1,26 @@
+route_id,service_id,trip_id,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
+RED,WEEKDAY,AM-R1_T01,to Silva Bay,0,,AM-R1,1,2
+ORANGE,WEEKDAY,AM-O1_T01,to Twin Beaches via Village,0,,AM-O1,1,2
+GREEN,WEEKDAY,AM-G1_T01,to Ferry via Harrison,0,,AM-G1,1,2
+BLUE,WEEKDAY,AM-B1_T01,to Silva Bay via Whalebone,0,,AM-B1,1,2
+RED,WEEKDAY,AM-R2_T01,to Ferry via Silva Bay,0,,AM-R2,1,2
+ORANGE,WEEKDAY,AM-O2_T01,to Village,0,,AM-O2,1,2
+BLUE,ALLDAYS,MI-B1_T01,to Silva Bay via Whalebone,0,,MI-B1,1,2
+RED,ALLDAYS,MI-R1_T01,to Ferry via Silva Bay,0,,MI-R1,1,2
+GREEN,ALLDAYS,MI-G1_T01,to Ferry via Harrison,0,,MI-G1,1,2
+ORANGE,ALLDAYS,MI-O1_T01,"to Twin Beaches, Ferry by Request",0,,MI-O1,1,2
+RED,ALLDAYS,MI-R2_T01,to Sillva Bay,0,,MI-R2,1,2
+GREEN,ALLDAYS,MI-G2_T01,to Ferry,0,,MI-G2,1,2
+RED,ALLDAYS,MI-R3_T01,to Silva Bay via Village,0,,MI-R3,1,2
+GREEN,ALLDAYS,MI-G3_T01,to Ferry,0,,MI-G3,1,2
+ORANGE,ALLDAYS,MI-O2_T01,to Village,0,,MI-O2,1,2
+BLUE,ALLDAYS,MI-B2_T01,to Silva Bay via Whalebone,0,,MI-B2,1,2
+RED,ALLDAYS,MI-R4_T01,to Ferry via Silva Bay,0,,MI-R4,1,2
+RED,ALLDAYS,PM-R1_T01,to Silva Bay,0,,PM-R1,1,2
+ORANGE,ALLDAYS,PM-O1_T01,to Ferry via Twin Beaches,0,,PM-O1,1,2
+GREEN,ALLDAYS,PM-G1_T01,to Ferry,0,,PM-G1,1,2
+ORANGE,ALLDAYS,PM-O2_T01,to Ferry via Twin Beaches,0,,PM-O2,1,2
+RED,ALLDAYS,PM-R2_T01,to Silva Bay via Village,0,,PM-R2,1,2
+GREEN,ALLDAYS,PM-G2_T01,Village via Harrison,0,,PM-G2,1,2
+BLUE,ALLDAYS,PM-B1_T01,Silva Bay via Whalebone,0,,PM-B1,1,2
+RED,ALLDAYS,PM-R3_T01,to Ferry via Silva Bay,0,,PM-R3,1,2
